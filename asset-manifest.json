@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/miguejuarz/react-web-agencia/static/css/main.ea4c016a.css",
-    "main.js": "/miguejuarz/react-web-agencia/static/js/main.89bcb964.js",
-    "static/js/787.2374ce8c.chunk.js": "/miguejuarz/react-web-agencia/static/js/787.2374ce8c.chunk.js",
-    "static/media/pexel.jpg": "/miguejuarz/react-web-agencia/static/media/pexel.bce0e13283b959fbd233.jpg",
-    "index.html": "/miguejuarz/react-web-agencia/index.html",
-    "main.ea4c016a.css.map": "/miguejuarz/react-web-agencia/static/css/main.ea4c016a.css.map",
-    "main.89bcb964.js.map": "/miguejuarz/react-web-agencia/static/js/main.89bcb964.js.map",
-    "787.2374ce8c.chunk.js.map": "/miguejuarz/react-web-agencia/static/js/787.2374ce8c.chunk.js.map"
+    "main.css": "/react-web-agencia/static/css/main.ea4c016a.css",
+    "main.js": "/react-web-agencia/static/js/main.f63ad915.js",
+    "static/js/787.2374ce8c.chunk.js": "/react-web-agencia/static/js/787.2374ce8c.chunk.js",
+    "static/media/pexel.jpg": "/react-web-agencia/static/media/pexel.bce0e13283b959fbd233.jpg",
+    "index.html": "/react-web-agencia/index.html",
+    "main.ea4c016a.css.map": "/react-web-agencia/static/css/main.ea4c016a.css.map",
+    "main.f63ad915.js.map": "/react-web-agencia/static/js/main.f63ad915.js.map",
+    "787.2374ce8c.chunk.js.map": "/react-web-agencia/static/js/787.2374ce8c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea4c016a.css",
-    "static/js/main.89bcb964.js"
+    "static/js/main.f63ad915.js"
   ]
 }
